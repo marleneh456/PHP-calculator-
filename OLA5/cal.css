@@ -1,0 +1,91 @@
+/* Name: Marlene Habib */
+/* Instructor: Dr. Yang */
+/* OLA 5 */
+/* cal.css */
+/* Date: 04-04-2024 */
+/* Due Date: 04-04-2024 */
+
+/* Style for Body */
+body {
+    background-color: #191970; 
+}
+
+/* Styles for h1 */
+h1 {
+    font-family: Arial;
+    text-align: center;
+    color: #FFD700; 
+}
+
+/* Styles for the calculator */
+#calculator {
+    width: 320px; 
+	height: 430px;
+    margin: auto; 
+    padding: 10px;
+    background-color: #212121; 
+}
+
+/* Styles for the input */
+input {
+    width: 285px;
+    margin: 5px; 
+    padding: 10px;
+    background-color: #D9ECD8;
+	font-family: 'Orbitron';
+	font-size: 25px;
+	border: 2px solid #212121;
+}
+
+/* Styles for the clear button */
+button.clear {
+	width: 70px; 
+    padding: 5px;
+	margin-top: 20px;
+	margin-left: 5px;
+    background-color: #D5656C;
+    color: white; 
+	font-weight: bold;
+	border-radius: 50%;
+	border: 2px solid #212121;
+}
+
+/* Styles for the operator buttons */
+button.operator {
+	width: 70px; 
+    padding: 5px; 
+	margin-left: 5px;
+    background-color: #72889F; 
+	color: white;
+	font-size: 25px; 
+	font-weight: bold;
+	border-radius: 50%;
+	border: 2px solid #212121;
+    
+}
+
+/* Styles for the number buttons and decimal button */
+button.numbervalue{
+    width: 70px; 
+    padding: 5px; 
+	margin-left: 5px;
+    background-color: #49494B; 
+	color: white;
+    font-size: 25px; 
+	font-weight: bold;
+	border-radius: 50%;
+	border: 2px solid #212121;
+}
+
+/* Styles for the equal button */
+button.equal {
+	width: 70px; 
+    padding: 5px;
+	margin-left: 5px;
+    background-color: #429CFF; 
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+	border-radius: 50%;
+	border: 2px solid #212121;
+}
