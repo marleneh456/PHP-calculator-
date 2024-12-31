@@ -18,8 +18,8 @@
 	<!-- The title of this assignment -->
     <title>Calculator Website</title>
 	
-	<!-- Link to cal.css -->
-    <link type="text/css" rel="stylesheet" href="cal.css" />
+	<!-- Link to index.css -->
+    <link type="text/css" rel="stylesheet" href="index.css" />
 	
 	<!-- Link to Orbitron fonts for Input text -->
 	<link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet'>
